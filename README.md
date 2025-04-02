@@ -17,6 +17,8 @@ Molecular structures (SMILES) and odorant labels were gathered from the Good Sce
 **Ritesh Kumar**, CSIR-CSIO, Chandigarh, India
 
 **Paper published**- https://pubs.acs.org/doi/full/10.1021/acsomega.4c07078
+
+
 **cite**- @article{doi:10.1021/acsomega.4c07078,
 author = {Sisson, Laura and Barsainyan, Aryan Amit and Sharma, Mrityunjay and Kumar, Ritesh},
 title = {Deep Learning for Odor Prediction on Aroma-Chemical Blends},
